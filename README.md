@@ -19,7 +19,7 @@
 ![VisualAlgo](https://img.shields.io/badge/Visualizations-VisualAlgo-6366f1?style=for-the-badge)
 
 > *"Python is not just a language — it's a mindset. Learn it right and everything else clicks faster."*
-> — **Dev** | Salesforce Dev 🔵 | DSA Grinder ⚔️ | Lifelong Learner 🎯
+> — **Dev** | Tech enthusiast<img width="25" height="25" alt="CatComputerGIF" src="https://github.com/user-attachments/assets/c9db1cf8-9499-467d-a498-9d2b4b8a52aa" /> | DSA Grinder ⚔️ | Lifelong Learner 🎯
 
 </div>
 
